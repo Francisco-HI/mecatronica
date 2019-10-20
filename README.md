@@ -1,2 +1,0 @@
-# mecatronica
-Repositorio de escuela
